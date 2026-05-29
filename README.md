@@ -8,6 +8,6 @@
 
 * Simple file-based GUI
 * Supports NSP, NCA, and XCI files
-* Optional hactool / hactoolnet backend support
+* hactool/hactoolnet support
 * Local key-file handling
 * Clean extraction logs
