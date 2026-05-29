@@ -1,0 +1,1 @@
+Ninbria is a work in progress Nintendo Archive extractor written in python that requires the hactool binary (which is already included). Future updates will make it so it dosent even require the hactool binary.
