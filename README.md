@@ -1,7 +1,13 @@
-Ninbria is a new and sophisticated Nintendo Archive extractor written in python that requires the hactool binary (which is already included). Future updates will make it so it dosent even require the hactool binary.
+# Ninbria
+
+**Ninbria** is a minimal extraction GUI for working with supported game container formats.
 
 ![image alt](https://github.com/Tirpinni/Ninbria/blob/main/Screenshot%202026-05-30%20012254.png?raw=true)
 
+## Features
 
-
-original hactool binary: https://github.com/SciresM/hactool
+* Simple file-based GUI
+* Supports NSP, NCA, and XCI workflows
+* Optional hactool / hactoolnet backend support
+* Local key-file handling
+* Clean extraction logs
